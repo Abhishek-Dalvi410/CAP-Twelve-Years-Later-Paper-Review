@@ -1,1 +1,1 @@
-# CAP Twelve Years Later: How the "Rules" Have Changed *Paper Review*
+# CAP Twelve Years Later: How the "Rules" Have Changed -*Paper Review*
